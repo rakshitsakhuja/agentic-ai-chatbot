@@ -1,0 +1,11 @@
+# ── Required: pick ONE provider ──────────────────────────────────────────────
+anthropic>=0.40.0          # Claude models
+# openai>=1.50.0           # OpenAI / Groq / Ollama / DeepSeek / Together
+
+# ── Optional: domain-specific ────────────────────────────────────────────────
+# pandas>=2.0.0            # Data processing
+# pandas-ta>=0.3.14b       # Technical indicators
+# ccxt>=4.0.0              # Exchange connectivity (100+ exchanges)
+# pybit>=5.0.0             # Bybit perps/spot
+# web3>=6.0.0              # On-chain data
+# requests>=2.31.0         # HTTP (already in stdlib via urllib)

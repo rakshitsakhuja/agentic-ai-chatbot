@@ -1,0 +1,6 @@
+anthropic>=0.40.0
+streamlit>=1.40.0
+langfuse>=3.0.0
+sentence-transformers>=3.0.0
+semantic-text-splitter>=0.20.0
+# openai>=1.50.0    # uncomment for OpenAI / Groq
